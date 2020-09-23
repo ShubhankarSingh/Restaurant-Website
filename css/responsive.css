@@ -1,0 +1,153 @@
+#navbar .container,
+#contact-info .container{
+    padding: 0;
+}
+
+#navbar .brand{
+    float: none;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a{
+    padding: 5px;
+    border-bottom: #444 solid 1px ;
+}
+
+#header-image {
+    height: 480px;
+}
+
+#header-image .header-content {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.header-content h1 {
+    font-size: 60px;
+}
+
+/* Cuisines */
+
+#cuisines {
+    height: 2050px;
+}
+
+.cuisine {
+    float: none;
+    width: 100%;
+    margin: 0%;
+    padding-top: 30px;
+}
+
+
+.cuisine p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* features */
+
+.box {
+    width: 100%;
+    padding: 40px;
+}
+
+.box p{
+    text-align: justify;
+}
+
+/* ABOUT PAGE */
+
+#about-info .info-left{
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-left h1{
+    text-align: center;
+    font-size: 38px;
+}
+
+#about-info .info-left p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+#about-info .info-right {
+    width: 100%;
+}
+
+#about-info .info-right img{
+    width: 300px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+/* Locations */
+#our-locations {
+    padding: 30px;
+}
+
+.places {
+    float: none;
+    width: 100%;
+    margin: 0%;
+}
+
+.places img{
+    width: 300px;
+    height: 300px;
+}
+
+.places p{
+    padding-bottom: 10px;
+}
+
+
+/* Testimonials */
+
+#testimonials {
+    height: 950px;
+}
+
+#testimonials h2 {
+    font-size: 28px;
+}
+
+/* Contacts*/
+
+.container-time{
+    display: none;
+}
+
+.container-form {
+    width: 100%;
+}
+
+#contact-wrap h1 {
+    font-size: 35px;
+}
+
+#contact-info .box {
+    background-color: rgb(15, 15, 15);
+    color: white;
+    padding: 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.603);
+}
+
+#contact-info .box p{
+    text-align: center;
+}
+
+.box i{
+    font-size: 32px;
+}
+
+.box h3{
+    font-size: 18px;
+}
