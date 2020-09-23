@@ -84,7 +84,7 @@ a {
 /*  Header */
 
 #header-image {
-    background: url('/images/header.jpg') no-repeat center/cover;
+    background: url('../images/header.jpg') no-repeat center/cover;
     background-size: cover;
     font-family: 'Raleway', sans-serif;
     height: 650px;
@@ -164,7 +164,7 @@ a {
 
 /* Cuisines */
 #cuisines {
-    height: 760px;
+    height: 710px;
     background-color: orange;
 }
 
@@ -304,7 +304,7 @@ a {
 
 /* Contact */
 #contact-wrap{
-    background: url("/images/contact-bg.jpg") no-repeat center center/cover;
+    background: url("../images/contact-bg.jpg") no-repeat center center/cover;
 }
 
 #contact-wrap h1{
